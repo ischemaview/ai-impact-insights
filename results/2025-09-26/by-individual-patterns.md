@@ -51,7 +51,6 @@
 2. Individual variation is huge - some developers benefit 8x more than others
 3. Different AI adoption strategies emerged naturally within the team
 4. Overall team commits increased 72% with better efficiency
-5. Project focus shifted from mobile-app to iOS/cloud services
 
 This provides clear, objective evidence that AI tools adoption on July 1st, 2025
 had significant positive impact on your apps team's productivity, with different
