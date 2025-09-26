@@ -1,28 +1,35 @@
-## 📊 Key Findings:
+## 📊 Repository Activity Summary:
 
-### Overall Team Performance:
+### Overall Repository Changes:
 
-* 22 developers analyzed (with sufficient commit activity)
-* Average 29.9% improvement in commits per week
-* 55% of developers showed productivity improvements
-* 8 weeks before/after July 1st, 2024 comparison
+* rapid-mobile-app: 420 → 264 commits (-37%)
+* rapid-ios-app: 164 → 233 commits (+42% 📈)
+* rapid-cloud-services: 245 → 185 commits (-24%)
 
-### 🏆 Top Performers:
+### 🏆 Team Performance Results:
 
-1. shatz-rapidai: 1.0 → 4.1 commits/week (+312.5% 🚀)
-2. aaronadrid-isv: 5.0 → 12.8 commits/week (+155.0%)
-3. SwatiBarathe: 1.1 → 2.8 commits/week (+144.4%)
-4. Vid-RapidAI: 5.6 → 11.1 commits/week (+97.8%)
+* 20 developers analyzed (sufficient commit activity)
+* Average +33.7% improvement in commits per week
+* 35% of developers showed productivity gains
+* Some developers showing dramatic improvements
 
-### Repository Activity:
+### 🚀 Top Individual Performers:
 
-* rapid-mobile-app: +24% more commits
-* rapid-ios-app: +14% more commits
-* rapid-cloud-services: -26% commits (possibly project winding down?)
+1. rapidlugo: 1.5 → 14.2 commits/week (+850% 🚀🚀🚀)
+2. PankajSinghRAI: 0.6 → 2.1 commits/week (+240%)
+3. shatz-rapidai: 2.2 → 4.5 commits/week (+100%)
+4. anvith-ks: 8.5 → 15.9 commits/week (+87%)
 
-## 🎯 What This Tells You:
+### 📈 Key Insights:
 
-1. AI adoption had a significant positive impact on developer productivity
-2. Over half your developers are more productive post-AI adoption
-3. Some developers saw dramatic improvements (2-4x productivity gains!)
-4. The improvement varies by developer - some benefit more than others
+* Overall productivity increase: +33.7% average improvement
+* Individual variation: Some developers (like rapidlugo) saw 8.5x productivity gains!
+* Mixed repository results: iOS app team performed strongly (+42%), while mobile app team had fewer commits (-37%)
+* AI assistance adoption: Some developers showing increased AI usage patterns
+
+## 🎯 What This Tells Us:
+
+1. AI adoption in July 2025 had significant positive impact for many developers
+2. Individual results vary greatly - some developers benefit much more than others
+3. Different projects show different patterns - iOS team gained momentum while mobile app team may have shifted focus
+4. The methodology works - we can clearly see before/after differences
