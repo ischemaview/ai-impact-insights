@@ -1,0 +1,25 @@
+# Configuration for GitHub Copilot Analysis
+# Copy this to config.json and fill in your values
+
+{
+  "github": {
+    "token": "ghp_your_github_token_here",
+    "organization": "your-org-name",
+    "repositories": [
+      "repo1",
+      "repo2",
+      "repo3"
+    ]
+  },
+  "analysis": {
+    "copilot_adoption_date": "2024-01-15",
+    "before_period_weeks": 8,
+    "after_period_weeks": 8,
+    "min_commits_for_analysis": 5
+  },
+  "output": {
+    "format": "json",
+    "filename_prefix": "copilot_analysis",
+    "include_raw_data": false
+  }
+}
