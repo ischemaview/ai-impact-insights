@@ -12,7 +12,7 @@
     ]
   },
   "analysis": {
-    "copilot_adoption_date": "2024-01-15",
+    "copilot_adoption_date": "2025-07-01",
     "before_period_weeks": 8,
     "after_period_weeks": 8,
     "min_commits_for_analysis": 5
